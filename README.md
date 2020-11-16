@@ -1,4 +1,4 @@
-# CSS Variables ![Image of Badge](https://img.shields.io/badge/css-variables-v1.0.0-purple)
+# CSS Variables ![Image of Badge](https://img.shields.io/badge/CSSVariables-v1.0.0-purple)
 
 
 ![ScreenShot](/content/screenshot.png)
