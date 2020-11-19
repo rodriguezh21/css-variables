@@ -6,7 +6,7 @@
 
 ## **Description**
 
-_Project 3/30_. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
+_Project 3/30_. Using CSS Variables to edit the spacing, blur, and background color of an image. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
 
 
 ***
